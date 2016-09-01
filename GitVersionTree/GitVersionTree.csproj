@@ -49,6 +49,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Classes\GraphGenerationManager.cs" />
     <Compile Include="Classes\Reg.cs" />
     <Compile Include="Forms\MainForm.cs">
       <SubType>Form</SubType>
